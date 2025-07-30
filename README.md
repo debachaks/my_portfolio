@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # my_portfolio
 =======
 ### 🚀 How to Deploy to GitHub Pages
@@ -80,3 +81,6 @@ npm run deploy
 ---
 
 >>>>>>> 8e9c454 (Initial commit)
+=======
+# my_portfolio
+>>>>>>> 1472b2e05f9faf447f5ff0128705987d9f3ff4a4
