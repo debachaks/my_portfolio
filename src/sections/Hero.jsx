@@ -26,12 +26,12 @@ const Hero = () => {
         </h1>
         
         <p className="text-slate-300 text-lg leading-relaxed tracking-wide mb-6">
-          "A data-driven engineer passionate about turning complex data into actionable insights. Currently crafting clean pipelines, smart solutions, and scalable systems that make data work harder.
+          A data-driven engineer passionate about turning complex data into actionable insights. Currently crafting clean pipelines, smart solutions, and scalable systems.
         </p>
 
         {/* Resume Button */}
         <a
-          href="https://drive.google.com/file/d/185kkZGwvluqzEDZdNCf2DULmsO7jA78u/view?usp=sharing"
+          href="https://drive.google.com/file/d/10ioU0WrBaaVytA8quliB5n1hvMxncBW4/view?usp=sharing"
           download
           className="inline-block bg-gradient-to-r from-purple-500 to-fuchsia-500 text-white px-6 py-3 rounded-full font-semibold hover:scale-105 transition-transform duration-300"
         >

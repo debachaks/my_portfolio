@@ -8,7 +8,7 @@ const projects = [
 • Automated data ingestion, preprocessing, training, and deployment workflows, achieving 100% reproducibility of experiments and tracking 5+ model versions with performance metrics.
 • Developed a Chrome Extension with Flask backend to visualize live sentiment insights; processed 1,000+ comments per video in real time with >90% model accuracy on test data.`,
     tech: ["Python", "AWS", "NLP","Docker","MLFlow"],
-    image: "projects/Youtube_Sentiment_Analysis.png",
+    image: "projects/Youtube_Sentiment_Analysis.jpeg",
     github: "https://github.com/debachaks/Youtube_Sentiment_Analysis",
   },
   {
@@ -22,19 +22,7 @@ const projects = [
     github: "https://github.com/debachaks/SmartTaskPrioritizer/tree/main",
     live: "https://smarttaskprioritizer-deba.streamlit.app/"
   },
-  {
-    title: "FoodVision",
-    desc: `•  Developed and deployed an end-to-end food vision model on Hugging Face using EfficientNet-B2 feature extractor,
-capable of predicting over 100 food classes achieving 95 % accuracy.
-• Conducted trade-off analysis between EfficientNet-B2 and ViT extractors, selecting EfficientNet-B2 based on model size,
-accuracy, and prediction time thus optimizing for real time application performance.
-`,
-    tech: ["Python", "PyTorch", "Hugging Face"],
-    image: "projects/plant.png",
-    github: "https://github.com/shrey-Bish/plant-disease-detection",
-    live: "https://plant-disease-detection-ls8e.onrender.com",
-    paper: "https://iarjset.com/wp-content/uploads/2023/05/IARJSET.2023.10597.pdf"
-  },
+  
   {
     title: "Analysis of Seizure Types using Deep Learning",
     desc: `• Classified different types of seizures using Signal Processing and various Deep Learning models.
@@ -43,9 +31,8 @@ network to predict three different types of seizure with an accuracy of over 83%
 • Utilized both time domain and spectral domain EEG data as input to an LSTM model to classify data into six different
 types of seizure with a remarkable F1-score and accuracy of 97.7% and 98% respectively`,
     tech: ["Python", "Tensorflow", "CNN"],
-    image: "projects/sentiment.png",
-    github: "https://github.com/shrey-Bish/hinglish-sentiment",
-    paper: "https://iarjset.com/wp-content/uploads/2023/01/IARJSET.2023.10130.pdf"
+    github: "https://github.com/debachaks/BTech_Project",
+    paper: "https://ieeexplore.ieee.org/document/10331565"
   }
 ];
 
