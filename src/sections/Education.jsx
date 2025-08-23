@@ -11,7 +11,7 @@ const educationData = [
   },
   {
     institution: "Indian Institute Of Information Technology, Guwahati",
-    degree: "Bachelor of Technology in Computer Science and Engineering",
+    degree: "Bachelor of Technology in Electronics and Communication Engineering",
     duration: "Aug 2019 - July 2023",
     location: "Guwahati, India",
     grade: "8.66 / 10",

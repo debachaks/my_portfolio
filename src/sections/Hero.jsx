@@ -42,7 +42,7 @@ const Hero = () => {
             {/* Right Content - Detailed About Me */}
       <div className="w-full lg:w-1/2 max-w-xl flex flex-col items-center">
         <img
-          src="/images/profile.jpg" // Make sure this path is correct
+          src="projects/profile.jpg" // Make sure this path is correct
           alt="Debaleena Chakraborty"
           className="w-48 h-48 rounded-full object-cover border-4 border-fuchsia-500 mb-8 shadow-lg"
         />
