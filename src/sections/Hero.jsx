@@ -51,7 +51,7 @@ const Hero = () => {
         </h2>
         <div className="bg-[#202034] rounded-xl p-6 shadow-md text-slate-300 text-md leading-relaxed space-y-4">
           <p>
-            Hey! I'm Debaleena Chakraborty — a curious and driven researcher-engineer working at the crossroads of <span className="text-fuchsia-300 font-medium">Data Engineering</span>, <span className="text-fuchsia-300 font-medium">Machine Learning</span>, and <span className="text-fuchsia-300 font-medium">Signal Processing</span>.
+            Hey! I'm Debaleena Chakraborty, a curious and driven researcher-engineer working at the crossroads of <span className="text-fuchsia-300 font-medium">Data Engineering</span>, <span className="text-fuchsia-300 font-medium">Machine Learning</span>, and <span className="text-fuchsia-300 font-medium">Signal Processing</span>.
             I love designing clean pipelines, experimenting with models, and building intelligent systems that turn raw data into meaningful, scalable solutions — with a strong emphasis on impact, reliability, and real-world relevance.
           </p>
           <p>

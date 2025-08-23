@@ -31,6 +31,7 @@ network to predict three different types of seizure with an accuracy of over 83%
 • Utilized both time domain and spectral domain EEG data as input to an LSTM model to classify data into six different
 types of seizure with a remarkable F1-score and accuracy of 97.7% and 98% respectively`,
     tech: ["Python", "Tensorflow", "CNN"],
+    image: "projects/deep_learning.png",
     github: "https://github.com/debachaks/BTech_Project",
     paper: "https://ieeexplore.ieee.org/document/10331565"
   }
