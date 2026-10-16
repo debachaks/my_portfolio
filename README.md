@@ -1,5 +1,9 @@
 
 # my_portfolio
+
+> **This portfolio has moved to https://debachaks.github.io/portfolio/** ([source](https://github.com/debachaks/portfolio)).
+> The old link now redirects there. Don't run `npm run deploy` here: it would overwrite the redirect.
+
 =======
 ### 🚀 How to Deploy to GitHub Pages
 
